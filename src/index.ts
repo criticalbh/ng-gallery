@@ -36,4 +36,9 @@ export * from './gallery/gallery-item-description-body.component';
   entryComponents: [PicturePreviewDialog]
 })
 export class NgGalleryModule {
+  static forRoot(){
+    return {
+      ngModule: NgGalleryModule,
+    };
+  }
 }
