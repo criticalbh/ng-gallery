@@ -1,0 +1,9 @@
+.pictureWrapper {
+  text-align: center;
+  cursor: pointer;
+}
+
+.picture {
+  max-width: 100%;
+  height: inherit;
+}
