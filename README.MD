@@ -10,7 +10,7 @@ To install this library, run:
 $ npm install ng-gallery2 --save
 ```
 
-##Usage
+## Usage
 ```
 <gallery-container>
 
